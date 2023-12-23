@@ -1,14 +1,6 @@
 ### Robotics Framework - Project Overview
 
-<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
-  <!-- Placeholder for a robot icon -->
-  <rect width="150" height="150" fill="#f2f2f2" />
-  <rect x="40" y="20" width="70" height="100" fill="#cccccc" />
-  <ellipse cx="75" cy="135" rx="35" ry="20" fill="#cccccc" />
-  <line x1="75" y1="20" x2="75" y2="135" stroke="#000000" stroke-width="2" />
-  <line x1="40" y1="70" x2="110" y2="70" stroke="#000000" stroke-width="2" />
-  <circle cx="75" cy="45" r="10" fill="#666666" />
-</svg>
+![Logo SVG](logo.svg)
 
 **Developed and Maintained by AI & Robotics Society, MTA**
 #### General Purpose Robotics Framework (Codename: RoboCore)
